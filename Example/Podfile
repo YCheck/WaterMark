@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WaterMark_Tests' do
+  pod 'WaterMark', :path => '../'
+  
+  
+end
