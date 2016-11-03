@@ -1,0 +1,14 @@
+PODS:
+  - WaterMark (0.1.1)
+
+DEPENDENCIES:
+  - WaterMark (from `../`)
+
+EXTERNAL SOURCES:
+  WaterMark:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WaterMark: fab535bfb69d291e2fec219f5fa1a359061cdc8c
+
+COCOAPODS: 0.39.0
